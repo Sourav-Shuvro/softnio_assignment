@@ -1,0 +1,11 @@
+.nav-section {
+  border-bottom: 1px #b52b1d solid;
+}
+.nav-section p {
+  padding: 6px 16px;
+}
+.active {
+  background-color: #b52b1d;
+  color: white;
+}
+
